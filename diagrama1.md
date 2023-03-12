@@ -1,4 +1,3 @@
-```mermaid
 flowchart TD
 subgraph AWS
     subgraph "Availability Zone 1"
